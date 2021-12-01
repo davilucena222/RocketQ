@@ -1,0 +1,28 @@
+<!--Section para a validação de senha-->
+<section>
+    <h2>Entrar como participante</h2>
+    <form action="/enterroom" method="POST">
+        <label class="sr-only" for="room-id">Código da sala</label> <!--Diz ao navegador o que vem logo abaixo do código (motores de busca do navegador, leitores automáticos)-->
+        <input name="roomId" maxlength="6" type="number" id="room-id" placeholder="Código da sala" required="true">
+        <button class="login">
+            <img src="images/enter-room.svg.svg" alt="Entrar na sala">
+            Entre na sala de perguntas
+        </button>
+    </form>
+</section>
+
+<!--Separador entre as duas sections-->
+<div class="separator">
+    <div></div>
+    <div>ou</div>
+    <div></div>
+</div>
+
+<!--Section para criar a sala-->
+<section>
+    <h2>Crie a sua própria sala</h2>
+        <a href="/create-pass" class="button outlined">
+            <img src="images/users.svg" alt="Criar Sala"> 
+            Criar Uma Sala
+        </a>
+</section>
