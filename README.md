@@ -1,4 +1,4 @@
- # Rocket.Q 💇
+ # Rocket.Q 🙋
 
 <p>This project was developed with the following tecnologies: </p>
 <ul>
