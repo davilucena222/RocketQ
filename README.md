@@ -1,5 +1,5 @@
  <p align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="https://raw.githubusercontent.com/davilucena222/RocketQ/faf792b860c07dc4369e05cf637fb26db28f8b2f/public/images/logo2.svg" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/davilucena222/RocketQ/blob/master/public/images/rocketq.png?raw=true" width="220px" />
  
   <p align="center">
    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
