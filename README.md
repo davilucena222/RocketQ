@@ -1,5 +1,5 @@
  <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="https://raw.githubusercontent.com/davilucena222/RocketQ/23c68622ec94b0b8720d2cebf1ef66145b74adbe/public/images/logo.svg" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="https://raw.githubusercontent.com/davilucena222/RocketQ/faf792b860c07dc4369e05cf637fb26db28f8b2f/public/images/logo2.svg" width="220px" />
 </h1>
 
 <p align="center">
