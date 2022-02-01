@@ -1,13 +1,18 @@
- <h1 align="center">
+ <p align="center">
   <img alt="Rocket.Q" title="Rocket.Q" src="https://raw.githubusercontent.com/davilucena222/RocketQ/faf792b860c07dc4369e05cf637fb26db28f8b2f/public/images/logo2.svg" width="220px" />
-</h1>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+ 
+  <p align="center">
+   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+ </p>
 </p>
+
+
+ # 🔖 Rocket.Q Layout
+ You can confere the project layout by clicking <a target="_blank" href="https://www.figma.com/community/file/1009821158959690135/Roquet.q">here</a>. The layout was created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> and I delveloped the platform adding more functionalities to become interactive and simple to use.
  
- 
- # Rocket.Q 🙋
+ <p align="center">
+    <img alt="Letmeask" src="" target="_blank" />
+</p>
 
 <p>This project was developed with the following tecnologies: </p>
 <ul>
